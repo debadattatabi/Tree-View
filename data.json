@@ -1,0 +1,59 @@
+{
+  "path": "Group A",
+  "name": "Group A",
+  "type": "directory",
+  "children": [{
+      "path": "Loan",
+      "name": "Loan",
+      "type": "directory",
+      "children": [{
+
+      }]
+    },
+    {
+      "path": "Second Loan",
+      "name": "Second Loan",
+      "type": "directory",
+      "children": [{
+        "path": "Second Loan/New York University",
+        "name": "New York University",
+        "type": "file"
+      }]
+    },
+    {
+      "path": "Monroe One Solar LLC",
+      "name": "Monroe One Solar LLC",
+      "type": "file"
+    },
+    {
+      "path": "Freehold Two Solar LLC",
+      "name": "Freehold Two Solar LLC",
+      "type": "file"
+    },
+    {
+      "path": "Jack W. Harmon Elementary School",
+      "name": "Jack W. Harmon Elementary School",
+      "type": "file"
+    },
+    {
+      "path": "Miller Valley Elementary School",
+      "name": "Miller Valley Elementary School",
+      "type": "file"
+    },
+    {
+      "path": "West Windsor Solar LLC",
+      "name": "West Windsor Solar LLC",
+      "type": "file"
+    },
+    {
+      "path": "Monroe One Solar LLC6",
+      "name": "Monroe One Solar LLC6",
+      "type": "file"
+    },
+    {
+      "path": "Freehold Two Solar LLC",
+      "name": "Freehold Two Solar LLC",
+      "type": "file"
+    }
+  ]
+}
